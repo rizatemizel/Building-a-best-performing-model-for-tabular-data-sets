@@ -2,14 +2,14 @@
 
 My work was the best-performing shared notebook among over 80 thousand trials in Kaggle's machine-learning competition for housing price prediction.
 
-I believe my approach on this work could be a baseline for a generalized standard practice for mixed-type small-size data sets.
+I believe approach on this work could be a baseline for a generalized standard practice for mixed-type small-size data sets.
 
 You can find the original notebook at this link: https://www.kaggle.com/code/rzatemizel/feature-engineering-optuna-stacked-pipe
 
-GitHub has a known problem when rendering jupyter notebooks; this makes some output cells quite ugly.
+GitHub has a known problem when rendering jupyter notebooks; this makes some output cells in notebook quite ugly.
 You can also find a complete notebook with better quality on this link: https://nbviewer.org/github/rizatemizel/Building-a-best-performing-model-for-tabular-data-sets/blob/main/feature-engineering-optuna-stacked-pipe.ipynb
 
-Based on this work, I also prepared an end-to-end machine learning project deployed on AWS Elastic Beanstalk. Please check this repo for this project: https://github.com/rizatemizel/machine_learning_deployment_elastic_beanstalk/tree/main
+Based on this work, I also prepared an end-to-end machine learning project deployed on AWS Elastic Beanstalk. If you are interested, please check this repo for this project: https://github.com/rizatemizel/machine_learning_deployment_elastic_beanstalk/tree/main
 
 ## Model Development Approach
 
