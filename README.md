@@ -24,14 +24,16 @@ You can observe a snapshot of the pipeline below. It's capable of preprocessing,
 - An aggressive hyperparameter search for base models in an ensemble with Optuna package.
 
 It demonstrates how to perform a Bayesian hyperparameter optimization using Optuna package on a complete scikit-learn pipeline.
-Solarized dark             |  Solarized Ocean
+
+Hyperparameter Optimization             |  Hyperparameter Imprtance
 :-------------------------:|:-------------------------:
 ![optuna1](https://github.com/rizatemizel/Building-a-best-performing-model-for-tabular-data-sets/assets/127015640/d8a39d5a-65a5-4f1a-aee1-0f8b68674e03) | ![optuna2](https://github.com/rizatemizel/Building-a-best-performing-model-for-tabular-data-sets/assets/127015640/72617537-8730-4afc-89fb-bbd5c4892be5)
 
 
+
 - Extensive EDA and feature engineering
 
-Solarized dark             |  Solarized Ocean
+Numerical Features             |  Categorical Features  
 :-------------------------:|:-------------------------:
 ![numerical](https://github.com/rizatemizel/Building-a-best-performing-model-for-tabular-data-sets/assets/127015640/23d3a3b1-7b87-4793-9de4-9b4ebdcdb311) | ![categorical](https://github.com/rizatemizel/Building-a-best-performing-model-for-tabular-data-sets/assets/127015640/7d438af5-2c79-4112-b290-f5c27f069660)
 
