@@ -18,7 +18,13 @@ This work benefits the best preprocessing and feature engineering practices post
 - An aggressive hyperparameter search for base models in an ensemble with Optuna package
 - Extensive feature engineering not included in others' works.
 
-![optuna1](https://github.com/rizatemizel/Building-a-best-performing-model-for-tabular-data-sets/assets/127015640/d8a39d5a-65a5-4f1a-aee1-0f8b68674e03) ![optuna2](https://github.com/rizatemizel/Building-a-best-performing-model-for-tabular-data-sets/assets/127015640/72617537-8730-4afc-89fb-bbd5c4892be5)
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![optuna1](https://github.com/rizatemizel/Building-a-best-performing-model-for-tabular-data-sets/assets/127015640/d8a39d5a-65a5-4f1a-aee1-0f8b68674e03) | ![optuna2](https://github.com/rizatemizel/Building-a-best-performing-model-for-tabular-data-sets/assets/127015640/72617537-8730-4afc-89fb-bbd5c4892be5)
+
+
+![optuna1](https://github.com/rizatemizel/Building-a-best-performing-model-for-tabular-data-sets/assets/127015640/d8a39d5a-65a5-4f1a-aee1-0f8b68674e03) 
+![optuna2](https://github.com/rizatemizel/Building-a-best-performing-model-for-tabular-data-sets/assets/127015640/72617537-8730-4afc-89fb-bbd5c4892be5)
 
 You can observe a snapshot of the pipeline below. It's capable of preprocessing, feature engineering, and serving predictions.
 
