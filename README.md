@@ -22,13 +22,13 @@ Numerical Features             |  Categorical Features
 ![numerical](https://github.com/rizatemizel/Building-a-best-performing-model-for-tabular-data-sets/assets/127015640/23d3a3b1-7b87-4793-9de4-9b4ebdcdb311) | ![categorical](https://github.com/rizatemizel/Building-a-best-performing-model-for-tabular-data-sets/assets/127015640/7d438af5-2c79-4112-b290-f5c27f069660)
 
 
-- Almost an obsession with doing everything in a pipeline, including feature engineering, preprocessing, and hyperparameter tuning
+- Almost an obsession with doing everything in a pipeline, including feature engineering, preprocessing, and hyperparameter tuning.
 
 You can observe a snapshot of the pipeline below. It's capable of preprocessing, feature engineering, and serving predictions.
 
 ![pipeline](https://github.com/rizatemizel/ml_deployment/assets/127015640/e80b8e2f-eb3e-400c-b152-75f1c7f3a085)
 
-- An aggressive hyperparameter search for base models in an ensemble with Optuna package.
+- An aggressive hyperparameter search for base models in ensemble with Optuna package.
 
 It demonstrates how to perform a Bayesian hyperparameter optimization using Optuna package on a complete scikit-learn pipeline.
 
